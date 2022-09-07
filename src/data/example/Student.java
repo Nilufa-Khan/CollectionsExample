@@ -8,12 +8,10 @@ public class Student {
     private int roll;
     private double marks;
 
-
     public Student(String name, int roll, double marks) {
         this.name = name;
         this.roll = roll;
         this.marks = marks;
-
     }
     public String toString(){
         return "name = " + name + " , roll = " + roll + " , marks = " + marks;
