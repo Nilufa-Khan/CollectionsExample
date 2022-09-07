@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11ef6bad-1d2e-4375-949d-0538e5157a22" name="Changes" comment="Traversing through the for loop and retrieving area value">
+    <list default="true" id="11ef6bad-1d2e-4375-949d-0538e5157a22" name="Changes" comment="created another class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/example/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/example/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/example/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data.example.Rectangle" />
       <module name="CollectionsExample" />
@@ -52,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.example.Student" />
+      <module name="CollectionsExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
@@ -109,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662568511898</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Taking input from scanner">
+      <created>1662569218454</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662569218454</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created another class">
+      <created>1662569263941</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662569263941</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +159,8 @@
     <MESSAGE value="Declaring array of objects" />
     <MESSAGE value=" Initializing array" />
     <MESSAGE value="Traversing through the for loop and retrieving area value" />
-    <option name="LAST_COMMIT_MESSAGE" value="Traversing through the for loop and retrieving area value" />
+    <MESSAGE value="Taking input from scanner" />
+    <MESSAGE value="created another class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created another class" />
   </component>
 </project>
