@@ -38,6 +38,7 @@ public class Student {
 
             std[i] = new Student(name,roll,marks);
         }
+
         for (int i = 0; i < std.length; i++) {
             System.out.println(std[i]);
         }
