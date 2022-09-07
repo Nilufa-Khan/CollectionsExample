@@ -18,7 +18,6 @@ public class Rectangle {
 
     public static void main(String[] args) {
         ////Declaring array of objects
-
         Rectangle[] obj = new Rectangle[5];
         //Initializing array
         obj[0] = new Rectangle(2,4);
