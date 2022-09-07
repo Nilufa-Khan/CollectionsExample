@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11ef6bad-1d2e-4375-949d-0538e5157a22" name="Changes" comment="Created a class rectangle">
+    <list default="true" id="11ef6bad-1d2e-4375-949d-0538e5157a22" name="Changes" comment="Traversing through the for loop and retrieving area value">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/example/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/example/Rectangle.java" afterDir="false" />
     </list>
@@ -67,6 +67,49 @@
       <option name="presentableId" value="Default" />
       <updated>1662566447033</updated>
     </task>
+    <task id="LOCAL-00001" summary="Declaring two attributes">
+      <created>1662568357359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662568357359</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created parameterised constructor">
+      <created>1662568393391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662568393391</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Defining getarea method">
+      <created>1662568432616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662568432616</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Declaring array of objects">
+      <created>1662568460624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662568460624</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" Initializing array">
+      <created>1662568485495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662568485495</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Traversing through the for loop and retrieving area value">
+      <created>1662568511898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662568511898</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +125,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created a class rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a class rectangle" />
+    <MESSAGE value="Declaring two attributes" />
+    <MESSAGE value="Created parameterised constructor" />
+    <MESSAGE value="Defining getarea method" />
+    <MESSAGE value="Declaring array of objects" />
+    <MESSAGE value=" Initializing array" />
+    <MESSAGE value="Traversing through the for loop and retrieving area value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Traversing through the for loop and retrieving area value" />
   </component>
 </project>
