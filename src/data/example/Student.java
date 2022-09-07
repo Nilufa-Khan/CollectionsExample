@@ -26,6 +26,7 @@ public class Student {
         //declaring array objects
         Student[] std = new Student[size];
         // initializing array
+
         for (int i = 0; i < std.length ; i++) {
             System.out.println("Enter name");
             String name = sc.next();
