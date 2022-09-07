@@ -25,6 +25,7 @@ public class Rectangle {
         obj[2] = new Rectangle(4,4);
         obj[3] = new Rectangle(5,4);
         obj[4] = new Rectangle(6,4);
+
         // Traversing through the for loop and retrieving area value
         for(int i = 0; i < obj.length; i++){
             System.out.println("Area of "+(i+1) +" object "+obj[i].getArea());
