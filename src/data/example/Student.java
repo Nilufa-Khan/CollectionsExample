@@ -24,6 +24,7 @@ public class Student {
         System.out.println("Enter size of array");
         int size = sc.nextInt();
         //declaring array objects
+
         Student[] std = new Student[size];
         // initializing array
 
